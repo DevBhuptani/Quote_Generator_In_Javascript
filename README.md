@@ -1,1 +1,1 @@
-# Quote_generator_in_Javascript
+# Quote_Generator_In_Javascript
